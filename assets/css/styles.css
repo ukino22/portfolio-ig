@@ -1,0 +1,17 @@
+.photo {
+    border-radius: 50%;
+}
+
+strong {
+    font-weight: bold;
+}
+
+#skills  {
+    width: 100%;
+    height: auto;
+  }
+
+#resultado{
+    color: green;
+    margin: 15px;
+}
